@@ -1,3 +1,13 @@
+# Locating Bacterial Flagellar Motors
+
+## Scientific Context
+
+Automated detection of biological structures from microscopy data
+is essential for scalable analysis in modern microbiology.
+Manual annotation is time-consuming and may introduce variability.
+This research explores deep learning approaches for identifying
+flagellar motor structures within 3D biological reconstructions.
+
 ## Research Notes
 This repository represents ongoing independent research exploration.
 
