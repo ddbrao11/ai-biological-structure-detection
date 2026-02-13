@@ -39,3 +39,19 @@ localization accuracy.
 ## Limitations
 Limited labeled data and imaging noise pose challenges.
 Future work may include geometric deep learning approaches.
+
+### Experimental Workflow (Conceptual Overview)
+
+```text
+3D Microscopy Data
+        ↓
+Preprocessing & Volume Normalization
+        ↓
+Feature Extraction
+        ↓
+Deep Learning Detection Model
+        ↓
+Prediction (Motor Location)
+        ↓
+Evaluation & Analysis
+```
