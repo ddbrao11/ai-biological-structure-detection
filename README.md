@@ -74,6 +74,7 @@ under noise and imaging artifacts.
 
 ![Sample slice](assets/sample_volume_slice.png)
 ![Max-intensity projection](assets/sample_mip.png)
+*Example visualization of a 3D reconstruction (slice/projection). Flagellar motors are small relative to the volume and may be difficult to localize under noise and artifacts.*
 
 > Note: This repository does not redistribute datasets or raw tomograms. It includes only derived visualizations.
 
